@@ -1,4 +1,4 @@
-# text-summarizer
+# Abstractive Text Summarization using Seq2Seq model
 Automatic Text Summarization is one of the most challenging topics in NLP. Abstractive
 Text Summarization is the task of creating summaries that contain new sentences than
 those already found in the original text, so the model needs to understand the language
